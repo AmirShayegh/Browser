@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Browser_Example' do
+  pod 'Browser', :path => '../'
+
+  target 'Browser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
