@@ -1,0 +1,6 @@
+framework module Browser {
+  umbrella header "Browser-umbrella.h"
+
+  export *
+  module * { export * }
+}

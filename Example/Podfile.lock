@@ -1,0 +1,16 @@
+PODS:
+  - Browser (0.1.0)
+
+DEPENDENCIES:
+  - Browser (from `../`)
+
+EXTERNAL SOURCES:
+  Browser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Browser: f8ae61942ddfa5511fabcc666d41ac9f0365308f
+
+PODFILE CHECKSUM: effaf103bb2c3b95bbea709a86be7158a57e5cac
+
+COCOAPODS: 1.5.3
